@@ -1,0 +1,2 @@
+# bwconfig
+setting up git
